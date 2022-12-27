@@ -273,6 +273,7 @@
 
 .fa-github-alt:before {
     content: "\f113"
+    
 }
 
 .fa-phoenix-squadron:before {
@@ -1673,7 +1674,8 @@
 }
 
 .fa-github:before {
-    content: "\f09b"
+    /* content: "\f09b" */
+    content: url(../../images/github.svg)
 }
 
 .fa-php:before {
